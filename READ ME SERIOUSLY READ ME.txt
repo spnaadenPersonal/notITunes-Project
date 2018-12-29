@@ -1,0 +1,66 @@
+------------------------
+- Not Itunes Release -
+------------------------
+
+Created by:
+
+	Group II: Electric Boogaloo
+	This Time It’s Personal!
+
+Charles Broderick  
+Spencer Naaden
+Ben Grieme	 
+Chris Adams	   
+
+---------------------------------------------------------------------------------------------------------------------------
+What does this program do?
+---------------------------
+NotItunes is a music management program. It was designed for those who prefer a more minimalist approach to their music management.
+
+This program allows users to create individual NotItunes accounts where they can download and store their music for playback either now or later.
+Users will download their music from the NotItunes Store into their personal library.
+Users are able to further organize their personal library into playlists so they can curate a playlist for any occation and have the appropriate songs ready at their fingertips.
+
+----------------------------------------------------------------------------------------------------------------------------
+What is in this folder?
+--------------------------
+
+-Once you have extracted the zipped file, you will find a folder with various files:
+
+	- notiTunes.exe 
+	- two necessary .dll files
+	- notiTunes.cpp file
+	- The formal report for this project
+	- A powerpoint for this project. 
+	- A folder of .wav music files
+	- A Folder labeled Presentation
+		- Powerpoint
+		- Presentation outline
+	- Any *username.txt files that have been created by the program.
+
+-Due to the additional libraries required to run this program,
+ we have supplied you with an EXE file for you to use to view our program in action.
+
+-To run a working version of our program, click the EXE. 
+-To view the code, use the CPP.
+
+-you will also find a flow chart outlining how we intend a user to navigate through our final version of the program.
+
+
+
+
+ ____                                     ______  ______                                                                     
+/\  _`\                                  /\__  _\/\__  _\                                                                    
+\ \ \L\_\  _ __   ___   __  __  _____    \/_/\ \/\/_/\ \/                                                                    
+ \ \ \L_L /\`'__\/ __`\/\ \/\ \/\ '__`\     \ \ \   \ \ \                                                                    
+  \ \ \/, \ \ \//\ \L\ \ \ \_\ \ \ \L\ \     \_\ \__ \_\ \__                                                                 
+   \ \____/\ \_\\ \____/\ \____/\ \ ,__/     /\_____\/\_____\                                                                
+ ____/___/__\/_/ \/___/  \/_____/\ \ \/      \/_____/\/_____/__                                      ___                     
+/\  _`\ /\_ \                /\ \_\ \_\     __            /\  _`\                                   /\_ \                    
+\ \ \__ \//\ \      __    ___\ \ ,_\/_/ __ /\_\    ___    \ \ \L\ \    ___     ___      __      __  \//\ \     ___     ___   
+ \ \  _\  \ \ \   /'__`\ /'___\ \ \/ /\`'__\/\ \  /'___\   \ \  _ <'  / __`\  / __`\  /'_ `\  /'__`\  \ \ \   / __`\  / __`\ 
+  \ \ \__  \_\ \_/\  __//\ \__/\ \ \_\ \ \/ \ \ \/\ \__/    \ \ \L\ \/\ \L\ \/\ \L\ \/\ \L\ \/\ \L\.\_ \_\ \_/\ \L\ \/\ \L\ \
+   \ \___\ /\____\ \____\ \____\\ \__\\ \_\  \ \_\ \____\    \ \____/\ \____/\ \____/\ \____ \ \__/.\_\/\____\ \____/\ \____/
+    \/___/ \/____/\/____/\/____/ \/__/ \/_/   \/_/\/____/     \/___/  \/___/  \/___/  \/___L\ \/__/\/_/\/____/\/___/  \/___/ 
+                                                                                        /\____/                              
+                                                                                        \_/__/                               
