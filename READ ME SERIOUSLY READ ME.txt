@@ -46,7 +46,9 @@ What is in this folder?
 
 -you will also find a flow chart outlining how we intend a user to navigate through our final version of the program.
 
-
+Warning:
+--------------------------
+To run this program, you will need the latest Microsoft Visual C++ 2015 or 2017 Redistributable. The program will not run correctly without it.
 
 
  ____                                     ______  ______                                                                     
